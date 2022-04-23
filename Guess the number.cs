@@ -54,7 +54,7 @@ namespace ConsoleApp1
             Console.WriteLine("|Thanks for playing this nonsense game XD.");
             Console.WriteLine("|I hope you enjoyed this game and bye for now.");
             Console.WriteLine("|Oh I almost forgot, if you want to know source code check my Github:" + characterGit + ".");
-            Console.WriteLine("|Or if you want to support me you can follow me in instagram:" + characterInsta + ".");
+            Console.WriteLine("|Or if you want to support me you can follow me on the instagram:" + characterInsta + ".");
             Console.ReadKey(true);
             phrase = Console.ReadLine();
 
